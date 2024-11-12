@@ -13,3 +13,4 @@ This project was completed as part of my Multivariate Data Analysis course. The 
 - Work Assignement: the detailed instructions and requirements for this lab project
 - Code.R: The R code I created for my analysis and modeling, along with comments on the results obtained
 
+### How to run Code.ipynb?
