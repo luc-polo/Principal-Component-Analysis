@@ -10,7 +10,7 @@ This project was completed as part of my Multivariate Data Analysis course. The 
 - Visualization of individuals in new subspaces and first factorial plane
 
 ### Structure:
-- Work Assignement: the detailed instructions and requirements for this lab project
-- Code.R: The R code I created for my analysis and modeling, along with comments on the results obtained
+- PCA_Implementation.ipynb: The python code I created for impementing PCA and all the analysis assoociated, along with comments on the results obtained
+- Assignement: The plan and detailed instructions for this lab project
 
-### How to run Code.ipynb?
+### How to run PCA_Implementation.ipynb?
