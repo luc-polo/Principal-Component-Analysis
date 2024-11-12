@@ -14,4 +14,4 @@ This project was completed as part of my Multivariate Data Analysis course. The 
 - Work_Assignement.pdf: The plan and detailed instructions for this lab project
 
 ### How to execute the code?
-There is no need to run the code manually, as the Jupyter Notebook displays all plots, outputs, and other objects directly on GitHub when we open it.
+The Jupyter Notebook displays all plots, outputs, and other objects directly on GitHub when opened, so there’s no need to run the code manually!
