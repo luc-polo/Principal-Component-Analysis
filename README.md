@@ -4,7 +4,7 @@ This project was completed as part of my Multivariate Data Analysis course. The 
 
 ### The main topics addressed:
 - Data visualization and summary statistics (explained variance, eigenvalues and eigenvectors, covariance matrix)
-- Principal Component Analysis (PCA)
+- Centered and normalised Principal Component Analysis (PCA)
 - Projection of data onto principal components
 - Evaluation of projection quality and inertia explained
 - Visualization of individuals in new subspaces and first factorial plane
