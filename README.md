@@ -1,8 +1,5 @@
-# Principal-Component-Analysis
-# <span style="color:blue">What and Why</span>:
-<div style="font-size:40px">
-    Ce bloc de texte est tout en taille 18px.
-</div>
+
+## What and Why?
 This practical work was completed as part of my Time Series course. The goal of the project is to analyze and **model the time series behavior of Euro/USD and Gold/USD exchange rates** using several appropriate time series models like AR, ARMA, ARCH, and GARCH models. I evaluate and forecast future observations with confidence intervals and study the heteroscedasticity in financial time series data.
 This Practical work implement from A to Z the PCA, doing manually the different steps to have a solid understunding of the technic.
 
