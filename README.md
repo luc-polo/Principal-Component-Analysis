@@ -13,7 +13,7 @@ This project was completed as part of my Multivariate Data Analysis course. The 
 ### Repository Structure:
 - PCA_Implementation.ipynb: The python code I created for impementing PCA and all the analysis assoociated, along with comments on the results obtained
 - Work_Assignement.pdf: The plan and detailed instructions for this lab project
-- requirements.txt: 
+- requirements.txt: List all the dependencies (packages and versions) that the project needs to run
 
 ### How to execute the code?
 The Jupyter Notebook displays all plots, outputs, and other objects directly on GitHub when opened, so there’s no need to run the code manually!
