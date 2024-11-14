@@ -18,3 +18,4 @@ This project was completed as part of my Multivariate Data Analysis course. The 
 ### How to execute the code?
 The Jupyter Notebook displays all plots, outputs, and other objects directly on GitHub when opened, so there’s no need to run the code manually!
 However, the requirements are provided if you want to execute the code on your own.
+jjjjjj
